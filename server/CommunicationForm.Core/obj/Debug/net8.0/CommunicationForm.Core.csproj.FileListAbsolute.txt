@@ -1,0 +1,12 @@
+D:\Softrust\server\CommunicationForm.core\bin\Debug\net8.0\CommunicationForm.Core.deps.json
+D:\Softrust\server\CommunicationForm.core\bin\Debug\net8.0\CommunicationForm.Core.dll
+D:\Softrust\server\CommunicationForm.core\bin\Debug\net8.0\CommunicationForm.Core.pdb
+D:\Softrust\server\CommunicationForm.core\obj\Debug\net8.0\CommunicationForm.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softrust\server\CommunicationForm.core\obj\Debug\net8.0\CommunicationForm.Core.AssemblyInfoInputs.cache
+D:\Softrust\server\CommunicationForm.core\obj\Debug\net8.0\CommunicationForm.Core.AssemblyInfo.cs
+D:\Softrust\server\CommunicationForm.core\obj\Debug\net8.0\CommunicationForm.Core.csproj.CoreCompileInputs.cache
+D:\Softrust\server\CommunicationForm.core\obj\Debug\net8.0\CommunicationForm.Core.sourcelink.json
+D:\Softrust\server\CommunicationForm.core\obj\Debug\net8.0\CommunicationForm.Core.dll
+D:\Softrust\server\CommunicationForm.core\obj\Debug\net8.0\refint\CommunicationForm.Core.dll
+D:\Softrust\server\CommunicationForm.core\obj\Debug\net8.0\CommunicationForm.Core.pdb
+D:\Softrust\server\CommunicationForm.core\obj\Debug\net8.0\ref\CommunicationForm.Core.dll

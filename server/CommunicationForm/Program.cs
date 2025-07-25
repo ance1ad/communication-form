@@ -1,0 +1,58 @@
+using CommunicationForm.Application.Services;
+using CommunicationForm.DataAccess;
+using CommunicationForm.DataAccess.Repositories;
+using Microsoft.EntityFrameworkCore;
+
+
+namespace Form
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            var builder = WebApplication.CreateBuilder(args);
+
+
+            builder.Services.AddControllers();
+            builder.Services.AddEndpointsApiExplorer();
+            builder.Services.AddSwaggerGen();
+
+            builder.Services.AddDbContext<CommunicationFormDbContext>(
+                options =>
+                {
+                    options.UseNpgsql(builder.Configuration.GetConnectionString(nameof(CommunicationFormDbContext)));
+                });
+
+
+            // DI
+            //builder.Services.AddScoped<IContactsService, ContactsService>();
+            //builder.Services.AddScoped<IContactsRepository, ThemesRepository>();
+
+            builder.Services.AddScoped<IMessagesService, MessagesService>();
+            builder.Services.AddScoped<IMessagesRepository, MessagesRepository>();
+
+            builder.Services.AddScoped<IThemesService, ThemesService>();
+            builder.Services.AddScoped<IThemesRepository, ThemesRepository>();
+
+
+
+            var app = builder.Build();
+
+            // Configure the HTTP request pipeline.
+            if (app.Environment.IsDevelopment())
+            {
+                app.UseSwagger();
+                app.UseSwaggerUI();
+            }
+
+            app.UseHttpsRedirection();
+
+            app.UseAuthorization();
+
+
+            app.MapControllers();
+
+            app.Run();
+        }
+    }
+}

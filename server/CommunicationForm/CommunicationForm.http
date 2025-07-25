@@ -1,0 +1,6 @@
+@CommunicationForm_HostAddress = http://localhost:5052
+
+GET {{CommunicationForm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

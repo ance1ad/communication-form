@@ -1,0 +1,16 @@
+D:\Softrust\server\CommunicationForm.Application\bin\Debug\net8.0\CommunicationForm.Application.deps.json
+D:\Softrust\server\CommunicationForm.Application\bin\Debug\net8.0\CommunicationForm.Application.dll
+D:\Softrust\server\CommunicationForm.Application\bin\Debug\net8.0\CommunicationForm.Application.pdb
+D:\Softrust\server\CommunicationForm.Application\bin\Debug\net8.0\CommunicationForm.Core.dll
+D:\Softrust\server\CommunicationForm.Application\bin\Debug\net8.0\CommunicationForm.Core.pdb
+D:\Softrust\server\CommunicationForm.Application\obj\Debug\net8.0\CommunicationForm.Application.csproj.AssemblyReference.cache
+D:\Softrust\server\CommunicationForm.Application\obj\Debug\net8.0\CommunicationForm.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Softrust\server\CommunicationForm.Application\obj\Debug\net8.0\CommunicationForm.Application.AssemblyInfoInputs.cache
+D:\Softrust\server\CommunicationForm.Application\obj\Debug\net8.0\CommunicationForm.Application.AssemblyInfo.cs
+D:\Softrust\server\CommunicationForm.Application\obj\Debug\net8.0\CommunicationForm.Application.csproj.CoreCompileInputs.cache
+D:\Softrust\server\CommunicationForm.Application\obj\Debug\net8.0\CommunicationForm.Application.sourcelink.json
+D:\Softrust\server\CommunicationForm.Application\obj\Debug\net8.0\Communic.5A013E40.Up2Date
+D:\Softrust\server\CommunicationForm.Application\obj\Debug\net8.0\CommunicationForm.Application.dll
+D:\Softrust\server\CommunicationForm.Application\obj\Debug\net8.0\refint\CommunicationForm.Application.dll
+D:\Softrust\server\CommunicationForm.Application\obj\Debug\net8.0\CommunicationForm.Application.pdb
+D:\Softrust\server\CommunicationForm.Application\obj\Debug\net8.0\ref\CommunicationForm.Application.dll
