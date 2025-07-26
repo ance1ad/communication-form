@@ -20,6 +20,14 @@ namespace CommunicationForm.DataAccess.Repositories
         public async Task<Guid> Create(Theme theme)
         {
             // сделать поиск по названию перед добавлением
+            var existingTheme = await _context.Themes
+                .FirstOrDefaultAsync(t => t.Theme == theme.ThemeName);
+
+            if (existingTheme != null)
+            {
+                throw new Exception("Такая тема уже существует");
+            }
+
             var themeEntity = new ThemeEntity()
             {
                 Id = theme.Id,

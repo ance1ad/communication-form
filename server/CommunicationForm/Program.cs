@@ -11,7 +11,7 @@ namespace Form
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-
+            var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
 
             builder.Services.AddControllers();
             builder.Services.AddEndpointsApiExplorer();
@@ -22,6 +22,18 @@ namespace Form
                 {
                     options.UseNpgsql(builder.Configuration.GetConnectionString(nameof(CommunicationFormDbContext)));
                 });
+
+            // cors
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy(name: MyAllowSpecificOrigins,
+                                  policy =>
+                                  {
+                                      policy.WithOrigins("http://localhost:4200")
+                                        .AllowAnyMethod()
+                                        .AllowAnyHeader();
+                                  });
+            });
 
 
             // DI
@@ -46,7 +58,7 @@ namespace Form
             }
 
             app.UseHttpsRedirection();
-
+            app.UseCors(MyAllowSpecificOrigins);
             app.UseAuthorization();
 
 
