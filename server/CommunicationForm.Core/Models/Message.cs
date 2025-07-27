@@ -16,8 +16,6 @@ namespace CommunicationForm.Core.Models
             Theme = theme;
         }
 
-        // Тут будет содержаться бизнес логика
-
 
         public Guid Id { get; set; }
         public string Text { get; set; } = string.Empty;

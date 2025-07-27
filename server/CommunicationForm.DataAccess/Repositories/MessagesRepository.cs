@@ -48,7 +48,7 @@ namespace CommunicationForm.DataAccess.Repositories
 
         public async Task<Guid> Create(Message message)
         {
-            // Поиск перед созданием
+            // Поиск контакта перед созданием
             var existingContact = await _context.Contacts
                 .FirstOrDefaultAsync(c => c.Email == message.Contact.Email && c.Phone == message.Contact.Phone);
 
@@ -85,6 +85,17 @@ namespace CommunicationForm.DataAccess.Repositories
             await _context.SaveChangesAsync();
 
             return messageEntity.Id;
+        }
+
+        public async Task<bool> Delete(Guid id)
+        {
+            var entity = await _context.Messages.FindAsync(id);
+            if (entity == null)
+                return false;
+
+            _context.Messages.Remove(entity);
+            await _context.SaveChangesAsync();
+            return true;
         }
     }
 }

@@ -6,5 +6,7 @@ namespace CommunicationForm.Application.Services
     {
         Task<Guid> CreateMessage(Message message);
         Task<List<Message>> GetAllMessages();
+
+        Task<bool> DeleteMessage(Guid id);
     }
 }

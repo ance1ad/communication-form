@@ -27,12 +27,12 @@ namespace Form
             builder.Services.AddCors(options =>
             {
                 options.AddPolicy(name: MyAllowSpecificOrigins,
-                                  policy =>
-                                  {
-                                      policy.WithOrigins("http://localhost:4200")
-                                        .AllowAnyMethod()
-                                        .AllowAnyHeader();
-                                  });
+                    policy =>
+                    {
+                        policy.WithOrigins("http://localhost:4200")
+                        .AllowAnyMethod()
+                        .AllowAnyHeader();
+                    });
             });
 
 

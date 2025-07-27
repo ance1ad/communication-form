@@ -22,6 +22,11 @@ namespace CommunicationForm.Application.Services
             return await _messageRepository.Create(message);
         }
 
+        public async Task<bool> DeleteMessage(Guid id)
+        {
+            return await _messageRepository.Delete(id);
+        }
+
 
         public async Task<List<Message>> GetAllMessages()
         {

@@ -68,5 +68,13 @@ namespace CommunicationForm.API.Controllers
             await _messagesService.CreateMessage(message);
             return Ok(message);
         }
+
+
+        [HttpDelete("{id}")]
+        public async Task<ActionResult> DeleteMessage(Guid id)
+        {
+            await _messagesService.DeleteMessage(id);
+            return Ok();
+        }
     }
 }

@@ -6,5 +6,7 @@ namespace CommunicationForm.DataAccess.Repositories
     {
         Task<Guid> Create(Message message);
         Task<List<Message>> Get();
+
+        Task<bool> Delete(Guid id);
     }
 }

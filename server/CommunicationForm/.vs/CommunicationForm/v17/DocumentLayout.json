@@ -3,48 +3,86 @@
   "WorkspaceRootPath": "D:\\Softrust\\server\\CommunicationForm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{423C5A3A-8AFD-4C8E-B2F8-42C44AA61A09}|CommunicationForm.API.csproj|D:\\Softrust\\server\\CommunicationForm\\contracts\\themesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423C5A3A-8AFD-4C8E-B2F8-42C44AA61A09}|CommunicationForm.API.csproj|solutionrelative:contracts\\themesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423C5A3A-8AFD-4C8E-B2F8-42C44AA61A09}|CommunicationForm.API.csproj|D:\\Softrust\\server\\CommunicationForm\\contracts\\themesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423C5A3A-8AFD-4C8E-B2F8-42C44AA61A09}|CommunicationForm.API.csproj|solutionrelative:contracts\\themesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423C5A3A-8AFD-4C8E-B2F8-42C44AA61A09}|CommunicationForm.API.csproj|D:\\Softrust\\server\\CommunicationForm\\contracts\\messagesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423C5A3A-8AFD-4C8E-B2F8-42C44AA61A09}|CommunicationForm.API.csproj|solutionrelative:contracts\\messagesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423C5A3A-8AFD-4C8E-B2F8-42C44AA61A09}|CommunicationForm.API.csproj|D:\\Softrust\\server\\CommunicationForm\\contracts\\messagesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423C5A3A-8AFD-4C8E-B2F8-42C44AA61A09}|CommunicationForm.API.csproj|solutionrelative:contracts\\messagesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423C5A3A-8AFD-4C8E-B2F8-42C44AA61A09}|CommunicationForm.API.csproj|D:\\Softrust\\server\\CommunicationForm\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423C5A3A-8AFD-4C8E-B2F8-42C44AA61A09}|CommunicationForm.API.csproj|solutionrelative:controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423C5A3A-8AFD-4C8E-B2F8-42C44AA61A09}|CommunicationForm.API.csproj|D:\\Softrust\\server\\CommunicationForm\\controllers\\themescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423C5A3A-8AFD-4C8E-B2F8-42C44AA61A09}|CommunicationForm.API.csproj|solutionrelative:controllers\\themescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2824E1-4265-4CD5-AB64-374D43E3A1B2}|..\\CommunicationForm.Application\\CommunicationForm.Application.csproj|d:\\softrust\\server\\communicationform.application\\services\\messagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B86F59-DD8B-491E-9B83-D41AFABF0D97}|..\\CommunicationForm.Core\\CommunicationForm.Core.csproj|d:\\softrust\\server\\communicationform.core\\abstractions\\imessagesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B86F59-DD8B-491E-9B83-D41AFABF0D97}|..\\CommunicationForm.Core\\CommunicationForm.Core.csproj|d:\\softrust\\server\\communicationform.core\\abstractions\\imessagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{82FB4071-2F1D-4FC8-9C52-F61F752402DC}|..\\CommunicationForm.DataAccess\\CommunicationForm.DataAccess.csproj|d:\\softrust\\server\\communicationform.dataaccess\\repositories\\messagesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82FB4071-2F1D-4FC8-9C52-F61F752402DC}|..\\CommunicationForm.DataAccess\\CommunicationForm.DataAccess.csproj|d:\\softrust\\server\\communicationform.dataaccess\\repositories\\themesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423C5A3A-8AFD-4C8E-B2F8-42C44AA61A09}|CommunicationForm.API.csproj|d:\\softrust\\server\\communicationform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{423C5A3A-8AFD-4C8E-B2F8-42C44AA61A09}|CommunicationForm.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82FB4071-2F1D-4FC8-9C52-F61F752402DC}|..\\CommunicationForm.DataAccess\\CommunicationForm.DataAccess.csproj|d:\\softrust\\server\\communicationform.dataaccess\\communicationformdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29B86F59-DD8B-491E-9B83-D41AFABF0D97}|..\\CommunicationForm.Core\\CommunicationForm.Core.csproj|d:\\softrust\\server\\communicationform.core\\abstractions\\imessagesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82FB4071-2F1D-4FC8-9C52-F61F752402DC}|..\\CommunicationForm.DataAccess\\CommunicationForm.DataAccess.csproj|d:\\softrust\\server\\communicationform.dataaccess\\entities\\messageentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{423C5A3A-8AFD-4C8E-B2F8-42C44AA61A09}|CommunicationForm.API.csproj|d:\\softrust\\server\\communicationform\\controllers\\themescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{423C5A3A-8AFD-4C8E-B2F8-42C44AA61A09}|CommunicationForm.API.csproj|solutionrelative:controllers\\themescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{423C5A3A-8AFD-4C8E-B2F8-42C44AA61A09}|CommunicationForm.API.csproj|d:\\softrust\\server\\communicationform\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{423C5A3A-8AFD-4C8E-B2F8-42C44AA61A09}|CommunicationForm.API.csproj|solutionrelative:controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{423C5A3A-8AFD-4C8E-B2F8-42C44AA61A09}|CommunicationForm.API.csproj|d:\\softrust\\server\\communicationform\\contracts\\themesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{423C5A3A-8AFD-4C8E-B2F8-42C44AA61A09}|CommunicationForm.API.csproj|solutionrelative:contracts\\themesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA2824E1-4265-4CD5-AB64-374D43E3A1B2}|..\\CommunicationForm.Application\\CommunicationForm.Application.csproj|d:\\softrust\\server\\communicationform.application\\services\\messagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29B86F59-DD8B-491E-9B83-D41AFABF0D97}|..\\CommunicationForm.Core\\CommunicationForm.Core.csproj|d:\\softrust\\server\\communicationform.core\\abstractions\\ithemesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29B86F59-DD8B-491E-9B83-D41AFABF0D97}|..\\CommunicationForm.Core\\CommunicationForm.Core.csproj|d:\\softrust\\server\\communicationform.core\\abstractions\\ithemesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423C5A3A-8AFD-4C8E-B2F8-42C44AA61A09}|CommunicationForm.API.csproj|d:\\softrust\\server\\communicationform\\contracts\\themesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{423C5A3A-8AFD-4C8E-B2F8-42C44AA61A09}|CommunicationForm.API.csproj|solutionrelative:contracts\\themesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29B86F59-DD8B-491E-9B83-D41AFABF0D97}|..\\CommunicationForm.Core\\CommunicationForm.Core.csproj|d:\\softrust\\server\\communicationform.core\\abstractions\\icontactsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FB4071-2F1D-4FC8-9C52-F61F752402DC}|..\\CommunicationForm.DataAccess\\CommunicationForm.DataAccess.csproj|d:\\softrust\\server\\communicationform.dataaccess\\communicationformdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FB4071-2F1D-4FC8-9C52-F61F752402DC}|..\\CommunicationForm.DataAccess\\CommunicationForm.DataAccess.csproj|d:\\softrust\\server\\communicationform.dataaccess\\entities\\themeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FB4071-2F1D-4FC8-9C52-F61F752402DC}|..\\CommunicationForm.DataAccess\\CommunicationForm.DataAccess.csproj|d:\\softrust\\server\\communicationform.dataaccess\\entities\\messageentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FB4071-2F1D-4FC8-9C52-F61F752402DC}|..\\CommunicationForm.DataAccess\\CommunicationForm.DataAccess.csproj|d:\\softrust\\server\\communicationform.dataaccess\\entities\\contactentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B86F59-DD8B-491E-9B83-D41AFABF0D97}|..\\CommunicationForm.Core\\CommunicationForm.Core.csproj|d:\\softrust\\server\\communicationform.core\\models\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B86F59-DD8B-491E-9B83-D41AFABF0D97}|..\\CommunicationForm.Core\\CommunicationForm.Core.csproj|d:\\softrust\\server\\communicationform.core\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B86F59-DD8B-491E-9B83-D41AFABF0D97}|..\\CommunicationForm.Core\\CommunicationForm.Core.csproj|d:\\softrust\\server\\communicationform.core\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B86F59-DD8B-491E-9B83-D41AFABF0D97}|..\\CommunicationForm.Core\\CommunicationForm.Core.csproj|d:\\softrust\\server\\communicationform.core\\abstractions\\icontactsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA2824E1-4265-4CD5-AB64-374D43E3A1B2}|..\\CommunicationForm.Application\\CommunicationForm.Application.csproj|d:\\softrust\\server\\communicationform.application\\services\\themesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2824E1-4265-4CD5-AB64-374D43E3A1B2}|..\\CommunicationForm.Application\\CommunicationForm.Application.csproj|d:\\softrust\\server\\communicationform.application\\services\\contactsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423C5A3A-8AFD-4C8E-B2F8-42C44AA61A09}|CommunicationForm.API.csproj|D:\\Softrust\\server\\CommunicationForm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423C5A3A-8AFD-4C8E-B2F8-42C44AA61A09}|CommunicationForm.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -64,176 +102,322 @@
         },
         {
           "DockedWidth": 204,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "IMessagesRepository.cs",
               "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm.Core\\Abstractions\\IMessagesRepository.cs",
               "RelativeDocumentMoniker": "..\\CommunicationForm.Core\\Abstractions\\IMessagesRepository.cs",
               "ToolTip": "D:\\Softrust\\server\\CommunicationForm.Core\\Abstractions\\IMessagesRepository.cs",
               "RelativeToolTip": "..\\CommunicationForm.Core\\Abstractions\\IMessagesRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T19:00:31.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MessagesRepository.cs",
-              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm.DataAccess\\Repositories\\MessagesRepository.cs",
-              "RelativeDocumentMoniker": "..\\CommunicationForm.DataAccess\\Repositories\\MessagesRepository.cs",
-              "ToolTip": "D:\\Softrust\\server\\CommunicationForm.DataAccess\\Repositories\\MessagesRepository.cs",
-              "RelativeToolTip": "..\\CommunicationForm.DataAccess\\Repositories\\MessagesRepository.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAwwDIAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T18:54:50.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Softrust\\server\\CommunicationForm\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T18:52:11.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ThemesController.cs",
-              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm\\Controllers\\ThemesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ThemesController.cs",
-              "ToolTip": "D:\\Softrust\\server\\CommunicationForm\\Controllers\\ThemesController.cs",
-              "RelativeToolTip": "Controllers\\ThemesController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAADwvyMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T18:45:00.294Z",
+              "WhenOpened": "2025-07-26T19:01:06.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ThemesResponse.cs",
-              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm\\Contracts\\ThemesResponse.cs",
-              "RelativeDocumentMoniker": "Contracts\\ThemesResponse.cs",
-              "ToolTip": "D:\\Softrust\\server\\CommunicationForm\\Contracts\\ThemesResponse.cs",
-              "RelativeToolTip": "Contracts\\ThemesResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "IMessagesService.cs",
+              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm.Core\\Abstractions\\IMessagesService.cs",
+              "RelativeDocumentMoniker": "..\\CommunicationForm.Core\\Abstractions\\IMessagesService.cs",
+              "ToolTip": "D:\\Softrust\\server\\CommunicationForm.Core\\Abstractions\\IMessagesService.cs",
+              "RelativeToolTip": "..\\CommunicationForm.Core\\Abstractions\\IMessagesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T18:44:54.687Z",
+              "WhenOpened": "2025-07-26T19:01:07.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ThemesRequest.cs",
-              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm\\Contracts\\ThemesRequest.cs",
-              "RelativeDocumentMoniker": "Contracts\\ThemesRequest.cs",
-              "ToolTip": "D:\\Softrust\\server\\CommunicationForm\\Contracts\\ThemesRequest.cs",
-              "RelativeToolTip": "Contracts\\ThemesRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T18:44:53.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IThemesService.cs",
-              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm.Core\\Abstractions\\IThemesService.cs",
-              "RelativeDocumentMoniker": "..\\CommunicationForm.Core\\Abstractions\\IThemesService.cs",
-              "ToolTip": "D:\\Softrust\\server\\CommunicationForm.Core\\Abstractions\\IThemesService.cs",
-              "RelativeToolTip": "..\\CommunicationForm.Core\\Abstractions\\IThemesService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T18:41:07.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MessagesController.cs",
-              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm\\Controllers\\MessagesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MessagesController.cs",
-              "ToolTip": "D:\\Softrust\\server\\CommunicationForm\\Controllers\\MessagesController.cs",
-              "RelativeToolTip": "Controllers\\MessagesController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwEMAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T18:46:24.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ThemesRepository.cs",
-              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm.DataAccess\\Repositories\\ThemesRepository.cs",
-              "RelativeDocumentMoniker": "..\\CommunicationForm.DataAccess\\Repositories\\ThemesRepository.cs",
-              "ToolTip": "D:\\Softrust\\server\\CommunicationForm.DataAccess\\Repositories\\ThemesRepository.cs",
-              "RelativeToolTip": "..\\CommunicationForm.DataAccess\\Repositories\\ThemesRepository.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T18:42:22.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CommunicationFormDbContext.cs",
-              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm.DataAccess\\CommunicationFormDbContext.cs",
-              "RelativeDocumentMoniker": "..\\CommunicationForm.DataAccess\\CommunicationFormDbContext.cs",
-              "ToolTip": "D:\\Softrust\\server\\CommunicationForm.DataAccess\\CommunicationFormDbContext.cs",
-              "RelativeToolTip": "..\\CommunicationForm.DataAccess\\CommunicationFormDbContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T19:32:43.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MessageEntity.cs",
-              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm.DataAccess\\Entities\\MessageEntity.cs",
-              "RelativeDocumentMoniker": "..\\CommunicationForm.DataAccess\\Entities\\MessageEntity.cs",
-              "ToolTip": "D:\\Softrust\\server\\CommunicationForm.DataAccess\\Entities\\MessageEntity.cs",
-              "RelativeToolTip": "..\\CommunicationForm.DataAccess\\Entities\\MessageEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T19:24:49.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "MessagesService.cs",
               "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm.Application\\Services\\MessagesService.cs",
               "RelativeDocumentMoniker": "..\\CommunicationForm.Application\\Services\\MessagesService.cs",
               "ToolTip": "D:\\Softrust\\server\\CommunicationForm.Application\\Services\\MessagesService.cs",
               "RelativeToolTip": "..\\CommunicationForm.Application\\Services\\MessagesService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAyAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T19:00:26.464Z",
+              "WhenOpened": "2025-07-26T19:00:58.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThemesController.cs",
+              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm\\Controllers\\ThemesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ThemesController.cs",
+              "ToolTip": "D:\\Softrust\\server\\CommunicationForm\\Controllers\\ThemesController.cs",
+              "RelativeToolTip": "Controllers\\ThemesController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:00:44.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MessagesController.cs",
+              "ToolTip": "D:\\Softrust\\server\\CommunicationForm\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "Controllers\\MessagesController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAYwE0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:00:37.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessagesRequest.cs",
+              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm\\Contracts\\MessagesRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\MessagesRequest.cs",
+              "ToolTip": "D:\\Softrust\\server\\CommunicationForm\\Contracts\\MessagesRequest.cs*",
+              "RelativeToolTip": "Contracts\\MessagesRequest.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:00:30.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessagesResponse.cs",
+              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm\\Contracts\\MessagesResponse.cs",
+              "RelativeDocumentMoniker": "Contracts\\MessagesResponse.cs",
+              "ToolTip": "D:\\Softrust\\server\\CommunicationForm\\Contracts\\MessagesResponse.cs*",
+              "RelativeToolTip": "Contracts\\MessagesResponse.cs*",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:00:31.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThemesRequest.cs",
+              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm\\Contracts\\ThemesRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\ThemesRequest.cs",
+              "ToolTip": "D:\\Softrust\\server\\CommunicationForm\\Contracts\\ThemesRequest.cs*",
+              "RelativeToolTip": "Contracts\\ThemesRequest.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:00:33.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThemesResponse.cs",
+              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm\\Contracts\\ThemesResponse.cs",
+              "RelativeDocumentMoniker": "Contracts\\ThemesResponse.cs",
+              "ToolTip": "D:\\Softrust\\server\\CommunicationForm\\Contracts\\ThemesResponse.cs*",
+              "RelativeToolTip": "Contracts\\ThemesResponse.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:00:35.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MessagesRepository.cs",
+              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm.DataAccess\\Repositories\\MessagesRepository.cs",
+              "RelativeDocumentMoniker": "..\\CommunicationForm.DataAccess\\Repositories\\MessagesRepository.cs",
+              "ToolTip": "D:\\Softrust\\server\\CommunicationForm.DataAccess\\Repositories\\MessagesRepository.cs",
+              "RelativeToolTip": "..\\CommunicationForm.DataAccess\\Repositories\\MessagesRepository.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAQwFkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:01:23.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ThemesRepository.cs",
+              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm.DataAccess\\Repositories\\ThemesRepository.cs",
+              "RelativeDocumentMoniker": "..\\CommunicationForm.DataAccess\\Repositories\\ThemesRepository.cs",
+              "ToolTip": "D:\\Softrust\\server\\CommunicationForm.DataAccess\\Repositories\\ThemesRepository.cs",
+              "RelativeToolTip": "..\\CommunicationForm.DataAccess\\Repositories\\ThemesRepository.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAQwEwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:01:27.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IThemesRepository.cs",
+              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm.Core\\Abstractions\\IThemesRepository.cs",
+              "RelativeDocumentMoniker": "..\\CommunicationForm.Core\\Abstractions\\IThemesRepository.cs",
+              "ToolTip": "D:\\Softrust\\server\\CommunicationForm.Core\\Abstractions\\IThemesRepository.cs",
+              "RelativeToolTip": "..\\CommunicationForm.Core\\Abstractions\\IThemesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:01:08.419Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "IThemesService.cs",
+              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm.Core\\Abstractions\\IThemesService.cs",
+              "RelativeDocumentMoniker": "..\\CommunicationForm.Core\\Abstractions\\IThemesService.cs",
+              "ToolTip": "D:\\Softrust\\server\\CommunicationForm.Core\\Abstractions\\IThemesService.cs",
+              "RelativeToolTip": "..\\CommunicationForm.Core\\Abstractions\\IThemesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:01:09.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IContactsRepository.cs",
+              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm.Core\\Abstractions\\IContactsRepository.cs",
+              "RelativeDocumentMoniker": "..\\CommunicationForm.Core\\Abstractions\\IContactsRepository.cs",
+              "ToolTip": "D:\\Softrust\\server\\CommunicationForm.Core\\Abstractions\\IContactsRepository.cs",
+              "RelativeToolTip": "..\\CommunicationForm.Core\\Abstractions\\IContactsRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:01:03.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CommunicationFormDbContext.cs",
+              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm.DataAccess\\CommunicationFormDbContext.cs",
+              "RelativeDocumentMoniker": "..\\CommunicationForm.DataAccess\\CommunicationFormDbContext.cs",
+              "ToolTip": "D:\\Softrust\\server\\CommunicationForm.DataAccess\\CommunicationFormDbContext.cs",
+              "RelativeToolTip": "..\\CommunicationForm.DataAccess\\CommunicationFormDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:01:29.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm.Core\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "..\\CommunicationForm.Core\\Models\\Contact.cs",
+              "ToolTip": "D:\\Softrust\\server\\CommunicationForm.Core\\Models\\Contact.cs",
+              "RelativeToolTip": "..\\CommunicationForm.Core\\Models\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:01:11.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm.Core\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "..\\CommunicationForm.Core\\Models\\Message.cs",
+              "ToolTip": "D:\\Softrust\\server\\CommunicationForm.Core\\Models\\Message.cs",
+              "RelativeToolTip": "..\\CommunicationForm.Core\\Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:01:12.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Theme.cs",
+              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm.Core\\Models\\Theme.cs",
+              "RelativeDocumentMoniker": "..\\CommunicationForm.Core\\Models\\Theme.cs",
+              "ToolTip": "D:\\Softrust\\server\\CommunicationForm.Core\\Models\\Theme.cs",
+              "RelativeToolTip": "..\\CommunicationForm.Core\\Models\\Theme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:01:13.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ContactEntity.cs",
+              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm.DataAccess\\Entities\\ContactEntity.cs",
+              "RelativeDocumentMoniker": "..\\CommunicationForm.DataAccess\\Entities\\ContactEntity.cs",
+              "ToolTip": "D:\\Softrust\\server\\CommunicationForm.DataAccess\\Entities\\ContactEntity.cs",
+              "RelativeToolTip": "..\\CommunicationForm.DataAccess\\Entities\\ContactEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:01:19.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MessageEntity.cs",
+              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm.DataAccess\\Entities\\MessageEntity.cs",
+              "RelativeDocumentMoniker": "..\\CommunicationForm.DataAccess\\Entities\\MessageEntity.cs",
+              "ToolTip": "D:\\Softrust\\server\\CommunicationForm.DataAccess\\Entities\\MessageEntity.cs",
+              "RelativeToolTip": "..\\CommunicationForm.DataAccess\\Entities\\MessageEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:01:20.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ThemeEntity.cs",
+              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm.DataAccess\\Entities\\ThemeEntity.cs",
+              "RelativeDocumentMoniker": "..\\CommunicationForm.DataAccess\\Entities\\ThemeEntity.cs",
+              "ToolTip": "D:\\Softrust\\server\\CommunicationForm.DataAccess\\Entities\\ThemeEntity.cs",
+              "RelativeToolTip": "..\\CommunicationForm.DataAccess\\Entities\\ThemeEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:01:22.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IContactsService.cs",
+              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm.Core\\Abstractions\\IContactsService.cs",
+              "RelativeDocumentMoniker": "..\\CommunicationForm.Core\\Abstractions\\IContactsService.cs",
+              "ToolTip": "D:\\Softrust\\server\\CommunicationForm.Core\\Abstractions\\IContactsService.cs",
+              "RelativeToolTip": "..\\CommunicationForm.Core\\Abstractions\\IContactsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:01:04.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "ThemesService.cs",
               "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm.Application\\Services\\ThemesService.cs",
               "RelativeDocumentMoniker": "..\\CommunicationForm.Application\\Services\\ThemesService.cs",
               "ToolTip": "D:\\Softrust\\server\\CommunicationForm.Application\\Services\\ThemesService.cs",
               "RelativeToolTip": "..\\CommunicationForm.Application\\Services\\ThemesService.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwB0AAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T18:41:25.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T19:01:01.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ContactsService.cs",
+              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm.Application\\Services\\ContactsService.cs",
+              "RelativeDocumentMoniker": "..\\CommunicationForm.Application\\Services\\ContactsService.cs",
+              "ToolTip": "D:\\Softrust\\server\\CommunicationForm.Application\\Services\\ContactsService.cs",
+              "RelativeToolTip": "..\\CommunicationForm.Application\\Services\\ContactsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:00:55.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Softrust\\server\\CommunicationForm\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Softrust\\server\\CommunicationForm\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwB8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T19:00:47.012Z"
             }
           ]
         }
