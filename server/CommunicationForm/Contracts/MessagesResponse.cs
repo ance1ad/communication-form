@@ -32,8 +32,6 @@ namespace CommunicationForm.API.Contracts
     public record ThemeDto
     (
         Guid Id,
-
-        [Required(ErrorMessage = "Выбор темы обязателен")]
         string Name
     );
 

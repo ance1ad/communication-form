@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CommunicationForm.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f9374c77d44306fb31ca03b6e27a453494fbd94")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6146c367d174f6c3a33a2b7ff9501a9738e66c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CommunicationForm.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CommunicationForm.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
